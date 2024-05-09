@@ -43,3 +43,15 @@
     margin-left: 10px;
 }
 
+.core-item>header>h2 {
+    text-align: center;
+}
+
+.core-item>section>input {
+    height: 35px;
+    width: 65%;
+}
+
+.core-item>label {
+    
+}
