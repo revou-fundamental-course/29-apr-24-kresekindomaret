@@ -1,0 +1,45 @@
+
+
+.navigation-container {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+}
+
+.navigation-container>nav>button {
+    height: 32px;
+    border: 0;
+}
+
+.navigation-container>header>div {
+    background-image: url(asset/accamaw.png);
+    height: 32px;
+    width: 32px;
+}
+
+.website-header>h1 {
+    font-family: sans-serif;
+}
+
+.website-header {
+    text-align: center;
+}
+
+.website-header>h3 {
+    font-family: sans-serif;
+}
+
+.core-content {
+    display: flex;
+}
+
+.core-item {
+    height: 300px;
+    width: 100%;
+    border: 1px solid;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
